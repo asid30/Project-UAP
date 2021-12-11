@@ -10,5 +10,5 @@ Project ini dibuat dan dikembangkan oleh:
 2. Natania Santa
 3. Rosinta
 
-Tema yang diusung...
+Project kami beri judul Square Flip
 

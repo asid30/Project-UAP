@@ -10,7 +10,7 @@ Project ini dibuat dan dikembangkan oleh:
 2. Natania Santa
 3. Rosinta Banjarnahor (2117051069)
 
-File project diberi nama: Square Flip (final).cpp
+File project diberi nama: Square Flip (Final).cpp
 
 Skema project: Flowchart Square Flip.png
 

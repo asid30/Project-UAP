@@ -7,7 +7,7 @@ HALOOOOO selamat datang :)
 
 Project ini dibuat dan dikembangkan oleh:
 1. Abdilah Asyidiqi (2117051001)
-2. Natania Santa
+2. Nathania Santa Nigel Simbolon (2117051009)
 3. Rosinta Banjarnahor (2117051069)
 
 File project diberi nama: Square Flip (Final).cpp
